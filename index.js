@@ -1,6 +1,7 @@
 module.exports = {
 
-  grunt: {
+  build: {
+    standalonePrefix: "SPEAK",
     jshint: {
       "curly": true,
       "eqeqeq": true,
